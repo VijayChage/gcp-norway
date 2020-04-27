@@ -11,9 +11,89 @@
         {
           "businessIdentificationCd": "343434343",
           "subCategory": [
-		  {
+			{
               "name": "second sub category",
               "detail": [
+			  {
+                  "description": "First description",
+                  "salary": [
+                    {
+                      "caledarMonth": "Mar-18",
+                      "amountDetailCount": 1,
+                      "amountDetail": [
+                        {
+                          "amount": 131103,
+                          "category": {
+                            "name": "In",
+                            "incomeTaxRule": "",
+                            "paymentType": "type500",
+                            "promEmployerTax": "1",
+                            "basisForTaxCalculation": "1",
+                            "underenhet": null
+                          },
+                          "specification": {
+                            "numberOfUnits": "",
+                            "taxResidenceCountry": "",
+                            "vestingCountry": "",
+                            "earnedSupportVessel": "",
+                            "earnedOnContinent": ""
+                          },
+                          "additionalInformation": []
+                        }
+                      ]
+                    },
+                    {
+                      "caledarMonth": "Apr-18",
+                      "amountDetailCount": 1,
+                      "amountDetail": [
+                        {
+                          "amount": 3904000,
+                          "category": {
+                            "name": "In",
+                            "incomeTaxRule": "",
+                            "paymentType": "pay450",
+                            "promEmployerTax": "1",
+                            "basisForTaxCalculation": "1",
+                            "underenhet": null
+                          },
+                          "specification": {
+                            "numberOfUnits": "",
+                            "taxResidenceCountry": "",
+                            "vestingCountry": "",
+                            "earnedSupportVessel": "",
+                            "earnedOnContinent": ""
+                          },
+                          "additionalInformation": []
+                        }
+                      ]
+                    },
+                    {
+                      "caledarMonth": "May-18",
+                      "amountDetailCount": 1,
+                      "amountDetail": [
+                        {
+                          "amount": 3500005,
+                          "category": {
+                            "name": "In",
+                            "incomeTaxRule": "",
+                            "paymentType": "pay600",
+                            "promEmployerTax": "1",
+                            "basisForTaxCalculation": "1",
+                            "underenhet": null
+                          },
+                          "specification": {
+                            "numberOfUnits": "",
+                            "taxResidenceCountry": "",
+                            "vestingCountry": "",
+                            "earnedSupportVessel": "",
+                            "earnedOnContinent": ""
+                          },
+                          "additionalInformation": []
+                        }
+                      ]
+                    }
+                    ]
+                },
                 {
                   "description": "second description",
                   "salary": [
@@ -1980,7 +2060,7 @@
           ]
         }
       ],
-      "mulitpleBusinessId": false
+      "mulitpleBusinessId": true
     },
     {
       "employerName": "major hit again",
@@ -1989,60 +2069,6 @@
         {
           "businessIdentificationCd": "757575757",
           "subCategory": [
-            {
-              "name": "Formost loop test",
-              "detail": [
-                {
-                  "description": "",
-                  "salary": [
-                    {
-                      "caledarMonth": "Jan-19",
-                      "amountDetailCount": 2,
-                      "amountDetail": [
-                        {
-                          "amount": -5012,
-                          "category": {
-                            "name": "For",
-                            "incomeTaxRule": "",
-                            "paymentType": "",
-                            "promEmployerTax": "",
-                            "basisForTaxCalculation": "",
-                            "underenhet": null
-                          },
-                          "specification": {
-                            "numberOfUnits": "",
-                            "taxResidenceCountry": "",
-                            "vestingCountry": "",
-                            "earnedSupportVessel": "",
-                            "earnedOnContinent": ""
-                          },
-                          "additionalInformation": []
-                        },
-                        {
-                          "amount": -501,
-                          "category": {
-                            "name": "For",
-                            "incomeTaxRule": "",
-                            "paymentType": "",
-                            "promEmployerTax": "",
-                            "basisForTaxCalculation": "",
-                            "underenhet": null
-                          },
-                          "specification": {
-                            "numberOfUnits": "",
-                            "taxResidenceCountry": "",
-                            "vestingCountry": "",
-                            "earnedSupportVessel": "",
-                            "earnedOnContinent": ""
-                          },
-                          "additionalInformation": []
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            },
             {
               "name": "mainly look at alignment",
               "detail": [
@@ -2239,8 +2265,32 @@
                           "additionalInformation": []
                         }
                       ]
-                    }
-                  ]
+                    },
+					{
+                      "caledarMonth": "Feb-19",
+                      "amountDetailCount": 2,
+                      "amountDetail": [
+                        {
+                          "amount": 126000,
+                          "category": {
+                            "name": "In",
+                            "incomeTaxRule": "",
+                            "paymentType": "Ko",
+                            "promEmployerTax": "1",
+                            "basisForTaxCalculation": "1",
+                            "underenhet": null
+                          },
+                          "specification": {
+                            "numberOfUnits": "",
+                            "taxResidenceCountry": "",
+                            "vestingCountry": "",
+                            "earnedSupportVessel": "",
+                            "earnedOnContinent": ""
+                          },
+                          "additionalInformation": []
+                        }
+                      ]
+                    ]
                 }
               ]
             }
