@@ -1,0 +1,9 @@
+{
+  "returnMessage": "Consent not found for the customer",
+  "externalCustomerNumber": "",
+  "customerConsentKey": "",
+  "customerDecision": "",
+  "localTruthBeforeTax": 0,
+  "employer": [],
+  "shelteredFlag": ""
+}
