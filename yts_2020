@@ -21,19 +21,19 @@
                     "elementGroupName": "General",
                     "element": [
                       {
-                        "elementName": "beloep",
+                        "elementName": "value",
                         "dataTypeIndicator": "N",
                         "elementValue": "66175.00"
                       },
                       {
-                        "elementName": "kildebeskrivelse",
+                        "elementName": "element 1000",
                         "dataTypeIndicator": "C",
-                        "elementValue": "Bankens navn"
+                        "elementValue": "BN"
                       },
                       {
                         "elementName": "kildenavn",
                         "dataTypeIndicator": "C",
-                        "elementValue": "Danske Bank"
+                        "elementValue": "DB"
                       }
                     ]
                   }
