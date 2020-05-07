@@ -31,9 +31,9 @@
                         "elementValue": "BN"
                       },
                       {
-                        "elementName": "kildenavn",
-                        "dataTypeIndicator": "C",
-                        "elementValue": "DB"
+                        "elementName": "aarPpppRegiing",
+                        "dataTypeIndicator": "D",
+                        "elementValue": "2000"
                       }
                     ]
                   }
@@ -75,9 +75,9 @@
                         "elementValue": "100.00"
                       },
                       {
-                        "elementName": "value",
-                        "dataTypeIndicator": "C",
-                        "elementValue": "1201"
+                        "elementName": "postnummer",
+                        "dataTypeIndicator": "D",
+                        "elementValue": "1500"
                       }
                     ]
                   }
