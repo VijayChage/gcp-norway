@@ -333,7 +333,7 @@
                       "amountDetailCount": 1,
                       "amountDetail": [
                         {
-                          "amount": 2400,
+                          "amount": -2400,
                           "category": {
                             "name": "In",
                             "incomeTaxRule": "",
