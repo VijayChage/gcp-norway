@@ -123,7 +123,7 @@
                       "amountDetailCount": 1,
                       "amountDetail": [
                         {
-                          "amount": 1200,
+                          "amount": -1200,
                           "category": {
                             "name": "In",
                             "incomeTaxRule": "",
@@ -203,7 +203,7 @@
                       "amountDetailCount": 1,
                       "amountDetail": [
                         {
-                          "amount": 1300,
+                          "amount": -1300,
                           "category": {
                             "name": "In",
                             "incomeTaxRule": "",
@@ -253,7 +253,7 @@
                       "amountDetailCount": 1,
                       "amountDetail": [
                         {
-                          "amount": 120,
+                          "amount": -120,
                           "category": {
                             "name": "In",
                             "incomeTaxRule": "",
