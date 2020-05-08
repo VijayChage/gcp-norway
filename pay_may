@@ -68,7 +68,7 @@
                       "amountDetailCount": 1,
                       "amountDetail": [
                         {
-                          "amount": -24205,
+                          "amount": 24205,
                           "category": {
                             "name": "Forskuddstrekk",
                             "incomeTaxRule": "",
@@ -102,7 +102,7 @@
                       "amountDetailCount": 1,
                       "amountDetail": [
                         {
-                          "amount": -71.01,
+                          "amount": 71.01,
                           "category": {
                             "name": "Fradrag",
                             "incomeTaxRule": "",
@@ -233,7 +233,7 @@
                       "amountDetailCount": 1,
                       "amountDetail": [
                         {
-                          "amount": -932.51,
+                          "amount": 932.51,
                           "category": {
                             "name": "Fradrag",
                             "incomeTaxRule": "",
@@ -257,7 +257,7 @@
                       "amountDetailCount": 1,
                       "amountDetail": [
                         {
-                          "amount": -1023.01,
+                          "amount": 1023.01,
                           "category": {
                             "name": "Fradrag",
                             "incomeTaxRule": "",
@@ -384,7 +384,7 @@
                       "amountDetailCount": 1,
                       "amountDetail": [
                         {
-                          "amount": -731,
+                          "amount": 731,
                           "category": {
                             "name": "Forskuddstrekk",
                             "incomeTaxRule": "",
@@ -423,7 +423,7 @@
                       "amountDetailCount": 1,
                       "amountDetail": [
                         {
-                          "amount": -98.1,
+                          "amount": 98.1,
                           "category": {
                             "name": "Fradrag",
                             "incomeTaxRule": "",
