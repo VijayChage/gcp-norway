@@ -23,7 +23,7 @@
                       "amountDetailCount": 1,
                       "amountDetail": [
                         {
-                          "amount": -300,
+                          "amount": -14300,
                           "category": {
                             "name": "In",
                             "incomeTaxRule": "",
@@ -73,7 +73,7 @@
                       "amountDetailCount": 1,
                       "amountDetail": [
                         {
-                          "amount": -700,
+                          "amount": -1700,
                           "category": {
                             "name": "In",
                             "incomeTaxRule": "",
