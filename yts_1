@@ -1,0 +1,442 @@
+{
+  "category": [
+    {
+      "categoryName": "taxinfo",
+      "grunnlag": {
+        "incomeAmountSum": 65000
+      },
+      "svalbard": null,
+      "categoryDetails": {
+        "returnMessage": "",
+        "incomeType": [
+          {
+            "name": "4.1.1 Testing1",
+            "taxBaseTypeIndicator": "G",
+            "amount": 66175,
+            "incomeTypeDetails": [
+              {
+                "incomeTypeDetailsId": "1",
+                "additionalInformation": [
+                  {
+                    "elementGroupName": "General",
+                    "element": [
+                      {
+                        "elementName": "value",
+                        "dataTypeIndicator": "N",
+                        "elementValue": "66175.00"
+                      },
+                      {
+                        "elementName": "element 1000",
+                        "dataTypeIndicator": "C",
+                        "elementValue": "BN"
+                      },
+                      {
+                        "elementName": "aarPpppRegiing",
+                        "dataTypeIndicator": "D",
+                        "elementValue": "2000"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "4.1.4 tax info1",
+            "taxBaseTypeIndicator": "G",
+            "amount": 28328,
+            "incomeTypeDetails": null
+          },
+          {
+            "name": "4.1.5 tax info 2",
+            "taxBaseTypeIndicator": "G",
+            "amount": 7,
+            "incomeTypeDetails": null
+          },
+          {
+            "name": "4.3.2 tax info 3",
+            "taxBaseTypeIndicator": "G",
+            "amount": 703217,
+            "incomeTypeDetails": [
+              {
+                "incomeTypeDetailsId": "1",
+                "additionalInformation": [
+                  {
+                    "elementGroupName": "element group",
+                    "element": [
+                      {
+                        "elementName": "value",
+                        "dataTypeIndicator": "N",
+                        "elementValue": "703217.00"
+                      },
+                      {
+                        "elementName": "value",
+                        "dataTypeIndicator": "N",
+                        "elementValue": "100.00"
+                      },
+                      {
+                        "elementName": "postnummer",
+                        "dataTypeIndicator": "D",
+                        "elementValue": "1500"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "categoryName": "category name 1",
+      "grunnlag": {
+        "incomeAmountSum": 2306354
+      },
+      "svalbard": null,
+      "categoryDetails": {
+        "returnMessage": "",
+        "incomeType": [
+          {
+            "name": "4.8.1 tax info 10",
+            "taxBaseTypeIndicator": "G",
+            "amount": 2148210,
+            "incomeTypeDetails": [
+              {
+                "incomeTypeDetailsId": "1",
+                "additionalInformation": [
+                  {
+                    "elementGroupName": "General",
+                    "element": [
+                      {
+                        "elementName": "beloep",
+                        "dataTypeIndicator": "N",
+                        "elementValue": "590769.00"
+                      },
+                      {
+                        "elementName": "element 2",
+                        "dataTypeIndicator": "C",
+                        "elementValue": "value"
+                      },
+                      {
+                        "elementName": "element 3",
+                        "dataTypeIndicator": "C",
+                        "elementValue": "element value"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "incomeTypeDetailsId": "2",
+                "additionalInformation": [
+                  {
+                    "elementGroupName": "general 2",
+                    "element": [
+                      {
+                        "elementName": "beloep",
+                        "dataTypeIndicator": "N",
+                        "elementValue": "7441.00"
+                      },
+                      {
+                        "elementName": "element",
+                        "dataTypeIndicator": "C",
+                        "elementValue": "element value"
+                      },
+                      {
+                        "elementName": "element 2",
+                        "dataTypeIndicator": "C",
+                        "elementValue": "element value 42"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "incomeTypeDetailsId": "3",
+                "additionalInformation": [
+                  {
+                    "elementGroupName": "General 15",
+                    "element": [
+                      {
+                        "elementName": "value",
+                        "dataTypeIndicator": "N",
+                        "elementValue": "1550000.00"
+                      },
+                      {
+                        "elementName": "element name 25",
+                        "dataTypeIndicator": "C",
+                        "elementValue": "element value"
+                      },
+                      {
+                        "elementName": "kildenavn",
+                        "dataTypeIndicator": "C",
+                        "elementValue": "Danske Bank"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "4.8.2 name 420",
+            "taxBaseTypeIndicator": "G",
+            "amount": 153658,
+            "incomeTypeDetails": [
+              {
+                "incomeTypeDetailsId": "1",
+                "additionalInformation": [
+                  {
+                    "elementGroupName": "general 25",
+                    "element": [
+                      {
+                        "elementName": "beloep",
+                        "dataTypeIndicator": "N",
+                        "elementValue": "153658.00"
+                      },
+                      {
+                        "elementName": "element name",
+                        "dataTypeIndicator": "C",
+                        "elementValue": "element value500"
+                      },
+                      {
+                        "elementName": "element name 560",
+                        "dataTypeIndicator": "C",
+                        "elementValue": "element value 450"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "4.8.6 new category 115",
+            "taxBaseTypeIndicator": "G",
+            "amount": 4486,
+            "incomeTypeDetails": null
+          }
+        ]
+      }
+    },
+    {
+      "categoryName": "category 12",
+      "grunnlag": {
+        "incomeAmountSum": 105993
+      },
+      "svalbard": null,
+      "categoryDetails": {
+        "returnMessage": "",
+        "incomeType": [
+          {
+            "name": "2.1.1 test",
+            "taxBaseTypeIndicator": "G",
+            "amount": 105189,
+            "incomeTypeDetails": [
+              {
+                "incomeTypeDetailsId": "1",
+                "additionalInformation": [
+                  {
+                    "elementGroupName": "general",
+                    "element": [
+                      {
+                        "elementName": "value ee",
+                        "dataTypeIndicator": "N",
+                        "elementValue": "74046.00"
+                      },
+                      {
+                        "elementName": "element110",
+                        "dataTypeIndicator": "C",
+                        "elementValue": "element value20"
+                      },
+                      {
+                        "elementName": "element 55",
+                        "dataTypeIndicator": "C",
+                        "elementValue": "kinn "
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "incomeTypeDetailsId": "2",
+                "additionalInformation": [
+                  {
+                    "elementGroupName": "Generisk",
+                    "element": [
+                      {
+                        "elementName": "beloep",
+                        "dataTypeIndicator": "N",
+                        "elementValue": "78.00"
+                      },
+                      {
+                        "elementName": "kildebeskrivelse",
+                        "dataTypeIndicator": "C",
+                        "elementValue": "Arbeidsgivers navn"
+                      },
+                      {
+                        "elementName": "kildenavn",
+                        "dataTypeIndicator": "C",
+                        "elementValue": "Helse Bergen Hf"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "incomeTypeDetailsId": "3",
+                "additionalInformation": [
+                  {
+                    "elementGroupName": "general 1000",
+                    "element": [
+                      {
+                        "elementName": "value",
+                        "dataTypeIndicator": "N",
+                        "elementValue": "29812.00"
+                      },
+                      {
+                        "elementName": "postpost",
+                        "dataTypeIndicator": "C",
+                        "elementValue": "element east"
+                      },
+                      {
+                        "elementName": "element post",
+                        "dataTypeIndicator": "C",
+                        "elementValue": "element west"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "incomeTypeDetailsId": "4",
+                "additionalInformation": [
+                  {
+                    "elementGroupName": "Generisk",
+                    "element": [
+                      {
+                        "elementName": "element 20",
+                        "dataTypeIndicator": "N",
+                        "elementValue": "1253.00"
+                      },
+                      {
+                        "elementName": "element 2",
+                        "dataTypeIndicator": "C",
+                        "elementValue": "element 110"
+                      },
+                      {
+                        "elementName": "element 3",
+                        "dataTypeIndicator": "C",
+                        "elementValue": "element value 800"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "3.1.1 new thing",
+            "taxBaseTypeIndicator": "G",
+            "amount": 804,
+            "incomeTypeDetails": [
+              {
+                "incomeTypeDetailsId": "1",
+                "additionalInformation": [
+                  {
+                    "elementGroupName": "general 15",
+                    "element": [
+                      {
+                        "elementName": "value",
+                        "dataTypeIndicator": "N",
+                        "elementValue": "804.00"
+                      },
+                      {
+                        "elementName": "user",
+                        "dataTypeIndicator": "C",
+                        "elementValue": "post"
+                      },
+                      {
+                        "elementName": "user",
+                        "dataTypeIndicator": "C",
+                        "elementValue": "BB"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "categoryName": "category 600",
+      "grunnlag": {
+        "incomeAmountSum": 35598
+      },
+      "svalbard": null,
+      "categoryDetails": {
+        "returnMessage": "",
+        "incomeType": [
+          {
+            "name": "3.2.12 testing 11",
+            "taxBaseTypeIndicator": "G",
+            "amount": 1702,
+            "incomeTypeDetails": null
+          },
+          {
+            "name": "3.3.1 category extra",
+            "taxBaseTypeIndicator": "G",
+            "amount": 30764,
+            "incomeTypeDetails": [
+              {
+                "incomeTypeDetailsId": "1",
+                "additionalInformation": [
+                  {
+                    "elementGroupName": "general 10",
+                    "element": [
+                      {
+                        "elementName": "value",
+                        "dataTypeIndicator": "N",
+                        "elementValue": "30764.00"
+                      },
+                      {
+                        "elementName": "element name 660",
+                        "dataTypeIndicator": "C",
+                        "elementValue": "element value 22"
+                      },
+                      {
+                        "elementName": "element name 115",
+                        "dataTypeIndicator": "C",
+                        "elementValue": "X B"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "3.3.4 name 450",
+            "taxBaseTypeIndicator": "G",
+            "amount": 3132,
+            "incomeTypeDetails": null
+          }
+        ]
+      }
+    }
+  ],
+  "returnMessage": "Data amount too large, report incident on Solve it",
+  "returnCode": 127,
+  "externalCustomerNumber": "550550550550",
+  "customerConsentKey": "2020-05-09-21.26.00.123456",
+  "taxYear": "2018",
+  "decisionShText": "",
+  "settlementDate": "20190620",
+  "estimatedFlag": "",
+  "estimatedSvFlag": "",
+  "decisionSvText": "",
+  "shelteredFlag": "0"
+}
