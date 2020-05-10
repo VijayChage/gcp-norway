@@ -1,0 +1,21 @@
+{
+"isValid": true,
+"userDetails": {
+"login": "L75652",
+"displayName": "Vijay",
+"departmentNumber": "string",
+"mailNickname": "string",
+"desktopProfile": "string",
+"mail": "string",
+"title": "string",
+"workplaceDescription": "string",
+"lsid": "string",
+"memberOf": [
+{
+"name": "string",
+"rawData": "string",
+"description": "string"
+}
+]
+}
+}
