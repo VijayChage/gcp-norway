@@ -1,0 +1,83 @@
+{
+  "returnMessage": "",
+  "returnCode": 0,
+  "externalCustomerNumber": "5657874556",
+  "customerConsentKey": "2019-11-15-15.49.27.159271",
+  "customerDecision": "",
+  "shelteredFlag": "F",
+  "localTruthBeforeTax": 0,
+  "employer": [
+    {
+      "cvrNumber": "2727272727272",
+      "employerName": "JKSJLKSJSKDJ IWOEIRORI SJDJJS ",
+      "employerDecision": null,
+      "monthlyIncomeBeforeTax": 0,
+      "multipleBusinessId": false,
+      "businessIdentification": [
+        {
+          "businessIdentificationCd": "6767676767",
+          "employerDecision": "Testing ",
+          "monthlyIncomeBeforeTax": 100000,
+          "month": [
+            {
+              "calendarMonth": "2019 October",
+              "totalMonthlyIncomeBeforeTax": 72917
+            },
+            {
+              "calendarMonth": "2019 September",
+              "totalMonthlyIncomeBeforeTax": 72917
+            },
+            {
+              "calendarMonth": "2019 August",
+              "totalMonthlyIncomeBeforeTax": 72917
+            },
+            {
+              "calendarMonth": "2019 July",
+              "totalMonthlyIncomeBeforeTax": 72917
+            },
+            {
+              "calendarMonth": "2019 June",
+              "totalMonthlyIncomeBeforeTax": 67086
+            },
+            {
+              "calendarMonth": "2019 May",
+              "totalMonthlyIncomeBeforeTax": 67086
+            }
+          ]
+        },
+        {
+          "businessIdentificationCd": "8787878787",
+          "employerDecision": "Testing",
+          "monthlyIncomeBeforeTax": 100,
+          "month": [
+            {
+              "calendarMonth": "2019 October",
+              "totalMonthlyIncomeBeforeTax": 200
+            },
+            {
+              "calendarMonth": "2019 September",
+              "totalMonthlyIncomeBeforeTax": 300
+            },
+            {
+              "calendarMonth": "2019 August",
+              "totalMonthlyIncomeBeforeTax": 450
+            },
+            {
+              "calendarMonth": "2019 July",
+              "totalMonthlyIncomeBeforeTax": 550
+            },
+            {
+              "calendarMonth": "2019 June",
+              "totalMonthlyIncomeBeforeTax": 690
+            },
+            {
+              "calendarMonth": "2019 May",
+              "totalMonthlyIncomeBeforeTax": 700
+            }
+          ]
+        }
+
+      ]
+    }
+  ]
+}
