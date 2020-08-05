@@ -1,0 +1,109 @@
+{
+  "returnMessage": "",
+  "returnCode": 0,
+  "externalCustomerNumber": "3456789",
+  "customerConsentKey": "2019-11-20-20.54.24.131503",
+  "customerDecision": "",
+  "shelteredFlag": "F",
+  "localTruthBeforeTax": 0,
+  "employer": [
+    {
+      "cvrNumber": "938801363",
+      "employerName": "Relience ",
+      "employerDecision": null,
+      "monthlyIncomeBeforeTax": 0,
+      "multipleBusinessId": false,
+      "businessIdentification": [
+   {
+          "businessIdentificationCd": "7890",
+          "employerDecision": "First level",
+          "monthlyIncomeBeforeTax": 0,
+          "month": [
+            {
+              "calendarMonth": "2019 July",
+              "totalMonthlyIncomeBeforeTax": 1222
+            },
+            {
+              "calendarMonth": "2019 June",
+              "totalMonthlyIncomeBeforeTax": 4590
+            }
+          ]
+        },        
+{
+          "businessIdentificationCd": "123456",
+          "employerDecision": "Second level",
+          "monthlyIncomeBeforeTax": 0,
+          "month": [
+            {
+              "calendarMonth": "2019 July",
+              "totalMonthlyIncomeBeforeTax": 16836
+            },
+            {
+              "calendarMonth": "2019 June",
+              "totalMonthlyIncomeBeforeTax": 0
+            },
+            {
+              "calendarMonth": "2019 May",
+              "totalMonthlyIncomeBeforeTax": 6828
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "cvrNumber": "56789",
+      "employerName": "Industry ",
+      "employerDecision": null,
+      "monthlyIncomeBeforeTax": 0,
+      "multipleBusinessId": true,
+      "businessIdentification": [
+        {
+          "businessIdentificationCd": "4556",
+          "employerDecision": "Second employer 1",
+          "monthlyIncomeBeforeTax": 0,
+          "month": [
+            {
+              "calendarMonth": "2019 July",
+              "totalMonthlyIncomeBeforeTax": 1778
+            },
+            {
+              "calendarMonth": "2019 June",
+              "totalMonthlyIncomeBeforeTax": 0
+            }
+          ]
+        },
+        {
+          "businessIdentificationCd": "5674390",
+          "employerDecision": "employer decision 2",
+          "monthlyIncomeBeforeTax": 54918,
+          "month": [
+            {
+              "calendarMonth": "2019 October",
+              "totalMonthlyIncomeBeforeTax": 49483
+            },
+            {
+              "calendarMonth": "2019 September",
+              "totalMonthlyIncomeBeforeTax": 77450
+            },
+            {
+              "calendarMonth": "2019 August",
+              "totalMonthlyIncomeBeforeTax": 49483
+            },
+            {
+              "calendarMonth": "2019 July",
+              "totalMonthlyIncomeBeforeTax": 57091
+            },
+            {
+              "calendarMonth": "2019 June",
+              "totalMonthlyIncomeBeforeTax": 48000
+            },
+            {
+              "calendarMonth": "2019 May",
+              "totalMonthlyIncomeBeforeTax": 48000
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
