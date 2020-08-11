@@ -1,0 +1,1659 @@
+{
+  "returnMessage": "Data amount too large, report incident on Solve it",
+  "externalCustomerNumber": "12345555555",
+  "customerConsentKey": "2020-03-04-08.56.38.328999",
+  "translationText": "displayed as part testing",
+  "returnCode": 126,
+  "employer": [
+    {
+      "employerName": "",
+      "cvrNumber": "121212121",
+      "businessIdentification": [
+        {
+          "businessIdentificationCd": "343434343",
+          "subCategory": [
+            {
+              "name": "First sub category",
+              "detail": [
+                {
+                  "description": "First description",
+                  "salary": [
+                    {
+                      "caledarMonth": "2020-01",
+                      "amountDetailCount": 1,
+                      "amountDetail": [
+                        {
+                          "amount": -14300,
+                          "category": {
+                            "name": "In",
+                            "incomeTaxRule": "",
+                            "paymentType": "paytype",
+                            "promEmployerTax": "1",
+                            "basisForTaxCalculation": "1",
+                            "underenhet": null
+                          },
+                          "specification": {
+                            "numberOfUnits": "",
+                            "taxResidenceCountry": "",
+                            "vestingCountry": "",
+                            "earnedSupportVessel": "",
+                            "earnedOnContinent": ""
+                          },
+                          "additionalInformation": []
+                        }
+                      ]
+                    },
+                    {
+                      "caledarMonth": "2020-02",
+                      "amountDetailCount": 1,
+                      "amountDetail": [
+                        {
+                          "amount": 500,
+                          "category": {
+                            "name": "In",
+                            "incomeTaxRule": "",
+                            "paymentType": "type4",
+                            "promEmployerTax": "1",
+                            "basisForTaxCalculation": "1",
+                            "underenhet": null
+                          },
+                          "specification": {
+                            "numberOfUnits": "",
+                            "taxResidenceCountry": "",
+                            "vestingCountry": "",
+                            "earnedSupportVessel": "",
+                            "earnedOnContinent": ""
+                          },
+                          "additionalInformation": []
+                        }
+                      ]
+                    },
+                    {
+                      "caledarMonth": "2020-03",
+                      "amountDetailCount": 1,
+                      "amountDetail": [
+                        {
+                          "amount": -1700,
+                          "category": {
+                            "name": "In",
+                            "incomeTaxRule": "",
+                            "paymentType": "type500",
+                            "promEmployerTax": "1",
+                            "basisForTaxCalculation": "1",
+                            "underenhet": null
+                          },
+                          "specification": {
+                            "numberOfUnits": "",
+                            "taxResidenceCountry": "",
+                            "vestingCountry": "",
+                            "earnedSupportVessel": "",
+                            "earnedOnContinent": ""
+                          },
+                          "additionalInformation": []
+                        }
+                      ]
+                    },
+                    {
+                      "caledarMonth": "2020-04",
+                      "amountDetailCount": 1,
+                      "amountDetail": [
+                        {
+                          "amount": 900,
+                          "category": {
+                            "name": "In",
+                            "incomeTaxRule": "",
+                            "paymentType": "pay450",
+                            "promEmployerTax": "1",
+                            "basisForTaxCalculation": "1",
+                            "underenhet": null
+                          },
+                          "specification": {
+                            "numberOfUnits": "",
+                            "taxResidenceCountry": "",
+                            "vestingCountry": "",
+                            "earnedSupportVessel": "",
+                            "earnedOnContinent": ""
+                          },
+                          "additionalInformation": []
+                        }
+                      ]
+                    },
+                    {
+                      "caledarMonth": "2020-05",
+                      "amountDetailCount": 1,
+                      "amountDetail": [
+                        {
+                          "amount": -1200,
+                          "category": {
+                            "name": "In",
+                            "incomeTaxRule": "",
+                            "paymentType": "pay600",
+                            "promEmployerTax": "1",
+                            "basisForTaxCalculation": "1",
+                            "underenhet": null
+                          },
+                          "specification": {
+                            "numberOfUnits": "",
+                            "taxResidenceCountry": "",
+                            "vestingCountry": "",
+                            "earnedSupportVessel": "",
+                            "earnedOnContinent": ""
+                          },
+                          "additionalInformation": []
+                        }
+                      ]
+                    },
+                    {
+                      "caledarMonth": "2020-06",
+                      "amountDetailCount": 1,
+                      "amountDetail": [
+                        {
+                          "amount": 1800,
+                          "category": {
+                            "name": "In",
+                            "incomeTaxRule": "",
+                            "paymentType": "pay150",
+                            "promEmployerTax": "1",
+                            "basisForTaxCalculation": "1",
+                            "underenhet": null
+                          },
+                          "specification": {
+                            "numberOfUnits": "",
+                            "taxResidenceCountry": "",
+                            "vestingCountry": "",
+                            "earnedSupportVessel": "",
+                            "earnedOnContinent": ""
+                          },
+                          "additionalInformation": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "description": "First second description",
+                  "salary": [
+                    {
+                      "caledarMonth": "2020-01",
+                      "amountDetailCount": 1,
+                      "amountDetail": [
+                        {
+                          "amount": 1200,
+                          "category": {
+                            "name": "In",
+                            "incomeTaxRule": "",
+                            "paymentType": "N",
+                            "promEmployerTax": "1",
+                            "basisForTaxCalculation": "1",
+                            "underenhet": null
+                          },
+                          "specification": {
+                            "numberOfUnits": "",
+                            "taxResidenceCountry": "",
+                            "vestingCountry": "",
+                            "earnedSupportVessel": "",
+                            "earnedOnContinent": ""
+                          },
+                          "additionalInformation": []
+                        }
+                      ]
+                    },
+                    {
+                      "caledarMonth": "2020-02",
+                      "amountDetailCount": 1,
+                      "amountDetail": [
+                        {
+                          "amount": 1300,
+                          "category": {
+                            "name": "In",
+                            "incomeTaxRule": "",
+                            "paymentType": "N",
+                            "promEmployerTax": "1",
+                            "basisForTaxCalculation": "1",
+                            "underenhet": null
+                          },
+                          "specification": {
+                            "numberOfUnits": "",
+                            "taxResidenceCountry": "",
+                            "vestingCountry": "",
+                            "earnedSupportVessel": "",
+                            "earnedOnContinent": ""
+                          },
+                          "additionalInformation": []
+                        }
+                      ]
+                    },
+                    {
+                      "caledarMonth": "2020-03",
+                      "amountDetailCount": 1,
+                      "amountDetail": [
+                        {
+                          "amount": 1500,
+                          "category": {
+                            "name": "In",
+                            "incomeTaxRule": "",
+                            "paymentType": "N",
+                            "promEmployerTax": "1",
+                            "basisForTaxCalculation": "1",
+                            "underenhet": null
+                          },
+                          "specification": {
+                            "numberOfUnits": "",
+                            "taxResidenceCountry": "",
+                            "vestingCountry": "",
+                            "earnedSupportVessel": "",
+                            "earnedOnContinent": ""
+                          },
+                          "additionalInformation": []
+                        }
+                      ]
+                    },
+                    {
+                      "caledarMonth": "2020-04",
+                      "amountDetailCount": 1,
+                      "amountDetail": [
+                        {
+                          "amount": 120,
+                          "category": {
+                            "name": "In",
+                            "incomeTaxRule": "",
+                            "paymentType": "N",
+                            "promEmployerTax": "1",
+                            "basisForTaxCalculation": "1",
+                            "underenhet": null
+                          },
+                          "specification": {
+                            "numberOfUnits": "",
+                            "taxResidenceCountry": "",
+                            "vestingCountry": "",
+                            "earnedSupportVessel": "",
+                            "earnedOnContinent": ""
+                          },
+                          "additionalInformation": []
+                        }
+                      ]
+                    },
+                    {
+                      "caledarMonth": "2020-05",
+                      "amountDetailCount": 1,
+                      "amountDetail": [
+                        {
+                          "amount": 18000,
+                          "category": {
+                            "name": "In",
+                            "incomeTaxRule": "",
+                            "paymentType": "N",
+                            "promEmployerTax": "1",
+                            "basisForTaxCalculation": "1",
+                            "underenhet": null
+                          },
+                          "specification": {
+                            "numberOfUnits": "",
+                            "taxResidenceCountry": "",
+                            "vestingCountry": "",
+                            "earnedSupportVessel": "",
+                            "earnedOnContinent": ""
+                          },
+                          "additionalInformation": []
+                        }
+                      ]
+                    },
+                    {
+                      "caledarMonth": "2020-06",
+                      "amountDetailCount": 1,
+                      "amountDetail": [
+                        {
+                          "amount": 10000,
+                          "category": {
+                            "name": "In",
+                            "incomeTaxRule": "",
+                            "paymentType": "N",
+                            "promEmployerTax": "1",
+                            "basisForTaxCalculation": "1",
+                            "underenhet": null
+                          },
+                          "specification": {
+                            "numberOfUnits": "",
+                            "taxResidenceCountry": "",
+                            "vestingCountry": "",
+                            "earnedSupportVessel": "",
+                            "earnedOnContinent": ""
+                          },
+                          "additionalInformation": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "description": "fourth description",
+                  "salary": [
+                    {
+                      "caledarMonth": "2020-01",
+                      "amountDetailCount": 1,
+                      "amountDetail": [
+                        {
+                          "amount": -2400,
+                          "category": {
+                            "name": "In",
+                            "incomeTaxRule": "",
+                            "paymentType": "Ko",
+                            "promEmployerTax": "1",
+                            "basisForTaxCalculation": "1",
+                            "underenhet": null
+                          },
+                          "specification": {
+                            "numberOfUnits": "",
+                            "taxResidenceCountry": "",
+                            "vestingCountry": "",
+                            "earnedSupportVessel": "",
+                            "earnedOnContinent": ""
+                          },
+                          "additionalInformation": []
+                        }
+                      ]
+                    },
+                    {
+                      "caledarMonth": "2020-02",
+                      "amountDetailCount": 1,
+                      "amountDetail": [
+                        {
+                          "amount": 1200,
+                          "category": {
+                            "name": "In",
+                            "incomeTaxRule": "",
+                            "paymentType": "Ko",
+                            "promEmployerTax": "1",
+                            "basisForTaxCalculation": "1",
+                            "underenhet": null
+                          },
+                          "specification": {
+                            "numberOfUnits": "",
+                            "taxResidenceCountry": "",
+                            "vestingCountry": "",
+                            "earnedSupportVessel": "",
+                            "earnedOnContinent": ""
+                          },
+                          "additionalInformation": []
+                        }
+                      ]
+                    },
+                    {
+                      "caledarMonth": "2020-06",
+                      "amountDetailCount": 1,
+                      "amountDetail": [
+                        {
+                          "amount": 12900,
+                          "category": {
+                            "name": "In",
+                            "incomeTaxRule": "",
+                            "paymentType": "Ko",
+                            "promEmployerTax": "1",
+                            "basisForTaxCalculation": "1",
+                            "underenhet": null
+                          },
+                          "specification": {
+                            "numberOfUnits": "",
+                            "taxResidenceCountry": "",
+                            "vestingCountry": "",
+                            "earnedSupportVessel": "",
+                            "earnedOnContinent": ""
+                          },
+                          "additionalInformation": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "description": "need travel",
+                  "salary": [
+                    {
+                      "caledarMonth": "2020-01",
+                      "amountDetailCount": 1,
+                      "amountDetail": [
+                        {
+                          "amount": 12500,
+                          "category": {
+                            "name": "In",
+                            "incomeTaxRule": "",
+                            "paymentType": "Ko",
+                            "promEmployerTax": "1",
+                            "basisForTaxCalculation": "1",
+                            "underenhet": null
+                          },
+                          "specification": {
+                            "numberOfUnits": "",
+                            "taxResidenceCountry": "",
+                            "vestingCountry": "",
+                            "earnedSupportVessel": "",
+                            "earnedOnContinent": ""
+                          },
+                          "additionalInformation": []
+                        }
+                      ]
+                    },
+                    {
+                      "caledarMonth": "2020-02",
+                      "amountDetailCount": 1,
+                      "amountDetail": [
+                        {
+                          "amount": 19500,
+                          "category": {
+                            "name": "In",
+                            "incomeTaxRule": "",
+                            "paymentType": "Ko",
+                            "promEmployerTax": "1",
+                            "basisForTaxCalculation": "1",
+                            "underenhet": null
+                          },
+                          "specification": {
+                            "numberOfUnits": "",
+                            "taxResidenceCountry": "",
+                            "vestingCountry": "",
+                            "earnedSupportVessel": "",
+                            "earnedOnContinent": ""
+                          },
+                          "additionalInformation": []
+                        }
+                      ]
+                    },
+                    {
+                      "caledarMonth": "2020-03",
+                      "amountDetailCount": 1,
+                      "amountDetail": [
+                        {
+                          "amount": 16500,
+                          "category": {
+                            "name": "In",
+                            "incomeTaxRule": "",
+                            "paymentType": "Ko",
+                            "promEmployerTax": "1",
+                            "basisForTaxCalculation": "1",
+                            "underenhet": null
+                          },
+                          "specification": {
+                            "numberOfUnits": "",
+                            "taxResidenceCountry": "",
+                            "vestingCountry": "",
+                            "earnedSupportVessel": "",
+                            "earnedOnContinent": ""
+                          },
+                          "additionalInformation": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "description": "Time permits",
+                  "salary": [
+                    {
+                      "caledarMonth": "2020-01",
+                      "amountDetailCount": 1,
+                      "amountDetail": [
+                        {
+                          "amount": 15,
+                          "category": {
+                            "name": "In",
+                            "incomeTaxRule": "",
+                            "paymentType": "Ko",
+                            "promEmployerTax": "1",
+                            "basisForTaxCalculation": "1",
+                            "underenhet": null
+                          },
+                          "specification": {
+                            "numberOfUnits": "150",
+                            "taxResidenceCountry": "",
+                            "vestingCountry": "",
+                            "earnedSupportVessel": "",
+                            "earnedOnContinent": ""
+                          },
+                          "additionalInformation": []
+                        }
+                      ]
+                    },
+                    {
+                      "caledarMonth": "2020-02",
+                      "amountDetailCount": 1,
+                      "amountDetail": [
+                        {
+                          "amount": 20,
+                          "category": {
+                            "name": "In",
+                            "incomeTaxRule": "",
+                            "paymentType": "Ko",
+                            "promEmployerTax": "1",
+                            "basisForTaxCalculation": "1",
+                            "underenhet": null
+                          },
+                          "specification": {
+                            "numberOfUnits": "150",
+                            "taxResidenceCountry": "",
+                            "vestingCountry": "",
+                            "earnedSupportVessel": "",
+                            "earnedOnContinent": ""
+                          },
+                          "additionalInformation": []
+                        }
+                      ]
+                    },
+                    {
+                      "caledarMonth": "2020-03",
+                      "amountDetailCount": 1,
+                      "amountDetail": [
+                        {
+                          "amount": 9,
+                          "category": {
+                            "name": "In",
+                            "incomeTaxRule": "",
+                            "paymentType": "Ko",
+                            "promEmployerTax": "1",
+                            "basisForTaxCalculation": "1",
+                            "underenhet": null
+                          },
+                          "specification": {
+                            "numberOfUnits": "150",
+                            "taxResidenceCountry": "",
+                            "vestingCountry": "",
+                            "earnedSupportVessel": "",
+                            "earnedOnContinent": ""
+                          },
+                          "additionalInformation": []
+                        }
+                      ]
+                    },
+                    {
+                      "caledarMonth": "2020-04",
+                      "amountDetailCount": 1,
+                      "amountDetail": [
+                        {
+                          "amount": 5,
+                          "category": {
+                            "name": "In",
+                            "incomeTaxRule": "",
+                            "paymentType": "Ko",
+                            "promEmployerTax": "1",
+                            "basisForTaxCalculation": "1",
+                            "underenhet": null
+                          },
+                          "specification": {
+                            "numberOfUnits": "150",
+                            "taxResidenceCountry": "",
+                            "vestingCountry": "",
+                            "earnedSupportVessel": "",
+                            "earnedOnContinent": ""
+                          },
+                          "additionalInformation": []
+                        }
+                      ]
+                    },
+                    {
+                      "caledarMonth": "2020-05",
+                      "amountDetailCount": 1,
+                      "amountDetail": [
+                        {
+                          "amount": 80,
+                          "category": {
+                            "name": "In",
+                            "incomeTaxRule": "",
+                            "paymentType": "Ko",
+                            "promEmployerTax": "1",
+                            "basisForTaxCalculation": "1",
+                            "underenhet": null
+                          },
+                          "specification": {
+                            "numberOfUnits": "150",
+                            "taxResidenceCountry": "",
+                            "vestingCountry": "",
+                            "earnedSupportVessel": "",
+                            "earnedOnContinent": ""
+                          },
+                          "additionalInformation": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+		{
+          "businessIdentificationCd": "3434123990",
+          "subCategory": [
+            {
+              "name": "Second sub category",
+              "detail": [
+                {
+                  "description": "Second first description",
+                  "salary": [
+                    {
+                      "caledarMonth": "2020-01",
+                      "amountDetailCount": 1,
+                      "amountDetail": [
+                        {
+                          "amount": 3000000,
+                          "category": {
+                            "name": "In",
+                            "incomeTaxRule": "",
+                            "paymentType": "paytype",
+                            "promEmployerTax": "1",
+                            "basisForTaxCalculation": "1",
+                            "underenhet": null
+                          },
+                          "specification": {
+                            "numberOfUnits": "",
+                            "taxResidenceCountry": "",
+                            "vestingCountry": "",
+                            "earnedSupportVessel": "",
+                            "earnedOnContinent": ""
+                          },
+                          "additionalInformation": []
+                        }
+                      ]
+                    },
+                    {
+                      "caledarMonth": "2020-02",
+                      "amountDetailCount": 1,
+                      "amountDetail": [
+                        {
+                          "amount": 190300,
+                          "category": {
+                            "name": "In",
+                            "incomeTaxRule": "",
+                            "paymentType": "type4",
+                            "promEmployerTax": "1",
+                            "basisForTaxCalculation": "1",
+                            "underenhet": null
+                          },
+                          "specification": {
+                            "numberOfUnits": "",
+                            "taxResidenceCountry": "",
+                            "vestingCountry": "",
+                            "earnedSupportVessel": "",
+                            "earnedOnContinent": ""
+                          },
+                          "additionalInformation": []
+                        }
+                      ]
+                    },
+                    {
+                      "caledarMonth": "2020-03",
+                      "amountDetailCount": 1,
+                      "amountDetail": [
+                        {
+                          "amount": 190300,
+                          "category": {
+                            "name": "In",
+                            "incomeTaxRule": "",
+                            "paymentType": "type500",
+                            "promEmployerTax": "1",
+                            "basisForTaxCalculation": "1",
+                            "underenhet": null
+                          },
+                          "specification": {
+                            "numberOfUnits": "",
+                            "taxResidenceCountry": "",
+                            "vestingCountry": "",
+                            "earnedSupportVessel": "",
+                            "earnedOnContinent": ""
+                          },
+                          "additionalInformation": []
+                        }
+                      ]
+                    },
+                    {
+                      "caledarMonth": "2020-04",
+                      "amountDetailCount": 1,
+                      "amountDetail": [
+                        {
+                          "amount": 123900,
+                          "category": {
+                            "name": "In",
+                            "incomeTaxRule": "",
+                            "paymentType": "pay450",
+                            "promEmployerTax": "1",
+                            "basisForTaxCalculation": "1",
+                            "underenhet": null
+                          },
+                          "specification": {
+                            "numberOfUnits": "",
+                            "taxResidenceCountry": "",
+                            "vestingCountry": "",
+                            "earnedSupportVessel": "",
+                            "earnedOnContinent": ""
+                          },
+                          "additionalInformation": []
+                        }
+                      ]
+                    },
+                    {
+                      "caledarMonth": "2020-05",
+                      "amountDetailCount": 1,
+                      "amountDetail": [
+                        {
+                          "amount": 312500,
+                          "category": {
+                            "name": "In",
+                            "incomeTaxRule": "",
+                            "paymentType": "pay600",
+                            "promEmployerTax": "1",
+                            "basisForTaxCalculation": "1",
+                            "underenhet": null
+                          },
+                          "specification": {
+                            "numberOfUnits": "",
+                            "taxResidenceCountry": "",
+                            "vestingCountry": "",
+                            "earnedSupportVessel": "",
+                            "earnedOnContinent": ""
+                          },
+                          "additionalInformation": []
+                        }
+                      ]
+                    },
+                    {
+                      "caledarMonth": "2020-06",
+                      "amountDetailCount": 1,
+                      "amountDetail": [
+                        {
+                          "amount": 309060,
+                          "category": {
+                            "name": "In",
+                            "incomeTaxRule": "",
+                            "paymentType": "pay150",
+                            "promEmployerTax": "1",
+                            "basisForTaxCalculation": "1",
+                            "underenhet": null
+                          },
+                          "specification": {
+                            "numberOfUnits": "",
+                            "taxResidenceCountry": "",
+                            "vestingCountry": "",
+                            "earnedSupportVessel": "",
+                            "earnedOnContinent": ""
+                          },
+                          "additionalInformation": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "description": "Third description",
+                  "salary": [
+                    {
+                      "caledarMonth": "2020-01",
+                      "amountDetailCount": 1,
+                      "amountDetail": [
+                        {
+                          "amount": 60,
+                          "category": {
+                            "name": "In",
+                            "incomeTaxRule": "",
+                            "paymentType": "N",
+                            "promEmployerTax": "1",
+                            "basisForTaxCalculation": "1",
+                            "underenhet": null
+                          },
+                          "specification": {
+                            "numberOfUnits": "",
+                            "taxResidenceCountry": "",
+                            "vestingCountry": "",
+                            "earnedSupportVessel": "",
+                            "earnedOnContinent": ""
+                          },
+                          "additionalInformation": []
+                        }
+                      ]
+                    },
+                    {
+                      "caledarMonth": "2020-02",
+                      "amountDetailCount": 1,
+                      "amountDetail": [
+                        {
+                          "amount": 160,
+                          "category": {
+                            "name": "In",
+                            "incomeTaxRule": "",
+                            "paymentType": "N",
+                            "promEmployerTax": "1",
+                            "basisForTaxCalculation": "1",
+                            "underenhet": null
+                          },
+                          "specification": {
+                            "numberOfUnits": "",
+                            "taxResidenceCountry": "",
+                            "vestingCountry": "",
+                            "earnedSupportVessel": "",
+                            "earnedOnContinent": ""
+                          },
+                          "additionalInformation": []
+                        }
+                      ]
+                    },
+                    {
+                      "caledarMonth": "2020-03",
+                      "amountDetailCount": 1,
+                      "amountDetail": [
+                        {
+                          "amount": 150,
+                          "category": {
+                            "name": "In",
+                            "incomeTaxRule": "",
+                            "paymentType": "N",
+                            "promEmployerTax": "1",
+                            "basisForTaxCalculation": "1",
+                            "underenhet": null
+                          },
+                          "specification": {
+                            "numberOfUnits": "",
+                            "taxResidenceCountry": "",
+                            "vestingCountry": "",
+                            "earnedSupportVessel": "",
+                            "earnedOnContinent": ""
+                          },
+                          "additionalInformation": []
+                        }
+                      ]
+                    },
+                    {
+                      "caledarMonth": "2020-04",
+                      "amountDetailCount": 1,
+                      "amountDetail": [
+                        {
+                          "amount": 120,
+                          "category": {
+                            "name": "In",
+                            "incomeTaxRule": "",
+                            "paymentType": "N",
+                            "promEmployerTax": "1",
+                            "basisForTaxCalculation": "1",
+                            "underenhet": null
+                          },
+                          "specification": {
+                            "numberOfUnits": "",
+                            "taxResidenceCountry": "",
+                            "vestingCountry": "",
+                            "earnedSupportVessel": "",
+                            "earnedOnContinent": ""
+                          },
+                          "additionalInformation": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "description": "fourth description",
+                  "salary": [
+                    {
+                      "caledarMonth": "2020-01",
+                      "amountDetailCount": 1,
+                      "amountDetail": [
+                        {
+                          "amount": 2400,
+                          "category": {
+                            "name": "In",
+                            "incomeTaxRule": "",
+                            "paymentType": "Ko",
+                            "promEmployerTax": "1",
+                            "basisForTaxCalculation": "1",
+                            "underenhet": null
+                          },
+                          "specification": {
+                            "numberOfUnits": "",
+                            "taxResidenceCountry": "",
+                            "vestingCountry": "",
+                            "earnedSupportVessel": "",
+                            "earnedOnContinent": ""
+                          },
+                          "additionalInformation": []
+                        }
+                      ]
+                    },
+                    {
+                      "caledarMonth": "2020-02",
+                      "amountDetailCount": 1,
+                      "amountDetail": [
+                        {
+                          "amount": 1200,
+                          "category": {
+                            "name": "In",
+                            "incomeTaxRule": "",
+                            "paymentType": "Ko",
+                            "promEmployerTax": "1",
+                            "basisForTaxCalculation": "1",
+                            "underenhet": null
+                          },
+                          "specification": {
+                            "numberOfUnits": "",
+                            "taxResidenceCountry": "",
+                            "vestingCountry": "",
+                            "earnedSupportVessel": "",
+                            "earnedOnContinent": ""
+                          },
+                          "additionalInformation": []
+                        }
+                      ]
+                    },
+                    {
+                      "caledarMonth": "2020-03",
+                      "amountDetailCount": 1,
+                      "amountDetail": [
+                        {
+                          "amount": 1800,
+                          "category": {
+                            "name": "In",
+                            "incomeTaxRule": "",
+                            "paymentType": "Ko",
+                            "promEmployerTax": "1",
+                            "basisForTaxCalculation": "1",
+                            "underenhet": null
+                          },
+                          "specification": {
+                            "numberOfUnits": "",
+                            "taxResidenceCountry": "",
+                            "vestingCountry": "",
+                            "earnedSupportVessel": "",
+                            "earnedOnContinent": ""
+                          },
+                          "additionalInformation": []
+                        }
+                      ]
+                    },
+                    {
+                      "caledarMonth": "2020-04",
+                      "amountDetailCount": 1,
+                      "amountDetail": [
+                        {
+                          "amount": 2200,
+                          "category": {
+                            "name": "In",
+                            "incomeTaxRule": "",
+                            "paymentType": "Ko",
+                            "promEmployerTax": "1",
+                            "basisForTaxCalculation": "1",
+                            "underenhet": null
+                          },
+                          "specification": {
+                            "numberOfUnits": "",
+                            "taxResidenceCountry": "",
+                            "vestingCountry": "",
+                            "earnedSupportVessel": "",
+                            "earnedOnContinent": ""
+                          },
+                          "additionalInformation": []
+                        }
+                      ]
+                    },
+                    {
+                      "caledarMonth": "2020-05",
+                      "amountDetailCount": 1,
+                      "amountDetail": [
+                        {
+                          "amount": 1900,
+                          "category": {
+                            "name": "In",
+                            "incomeTaxRule": "",
+                            "paymentType": "Ko",
+                            "promEmployerTax": "1",
+                            "basisForTaxCalculation": "1",
+                            "underenhet": null
+                          },
+                          "specification": {
+                            "numberOfUnits": "",
+                            "taxResidenceCountry": "",
+                            "vestingCountry": "",
+                            "earnedSupportVessel": "",
+                            "earnedOnContinent": ""
+                          },
+                          "additionalInformation": []
+                        }
+                      ]
+                    },
+                    {
+                      "caledarMonth": "2020-06",
+                      "amountDetailCount": 1,
+                      "amountDetail": [
+                        {
+                          "amount": 2900,
+                          "category": {
+                            "name": "In",
+                            "incomeTaxRule": "",
+                            "paymentType": "Ko",
+                            "promEmployerTax": "1",
+                            "basisForTaxCalculation": "1",
+                            "underenhet": null
+                          },
+                          "specification": {
+                            "numberOfUnits": "",
+                            "taxResidenceCountry": "",
+                            "vestingCountry": "",
+                            "earnedSupportVessel": "",
+                            "earnedOnContinent": ""
+                          },
+                          "additionalInformation": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "description": "need travel",
+                  "salary": [
+                    {
+                      "caledarMonth": "2020-01",
+                      "amountDetailCount": 1,
+                      "amountDetail": [
+                        {
+                          "amount": 2500,
+                          "category": {
+                            "name": "In",
+                            "incomeTaxRule": "",
+                            "paymentType": "Ko",
+                            "promEmployerTax": "1",
+                            "basisForTaxCalculation": "1",
+                            "underenhet": null
+                          },
+                          "specification": {
+                            "numberOfUnits": "",
+                            "taxResidenceCountry": "",
+                            "vestingCountry": "",
+                            "earnedSupportVessel": "",
+                            "earnedOnContinent": ""
+                          },
+                          "additionalInformation": []
+                        }
+                      ]
+                    },
+                    {
+                      "caledarMonth": "2020-02",
+                      "amountDetailCount": 1,
+                      "amountDetail": [
+                        {
+                          "amount": 9500,
+                          "category": {
+                            "name": "In",
+                            "incomeTaxRule": "",
+                            "paymentType": "Ko",
+                            "promEmployerTax": "1",
+                            "basisForTaxCalculation": "1",
+                            "underenhet": null
+                          },
+                          "specification": {
+                            "numberOfUnits": "",
+                            "taxResidenceCountry": "",
+                            "vestingCountry": "",
+                            "earnedSupportVessel": "",
+                            "earnedOnContinent": ""
+                          },
+                          "additionalInformation": []
+                        }
+                      ]
+                    },
+                    {
+                      "caledarMonth": "2020-03",
+                      "amountDetailCount": 1,
+                      "amountDetail": [
+                        {
+                          "amount": 6500,
+                          "category": {
+                            "name": "In",
+                            "incomeTaxRule": "",
+                            "paymentType": "Ko",
+                            "promEmployerTax": "1",
+                            "basisForTaxCalculation": "1",
+                            "underenhet": null
+                          },
+                          "specification": {
+                            "numberOfUnits": "",
+                            "taxResidenceCountry": "",
+                            "vestingCountry": "",
+                            "earnedSupportVessel": "",
+                            "earnedOnContinent": ""
+                          },
+                          "additionalInformation": []
+                        }
+                      ]
+                    },
+                    {
+                      "caledarMonth": "2020-04",
+                      "amountDetailCount": 1,
+                      "amountDetail": [
+                        {
+                          "amount": 8500,
+                          "category": {
+                            "name": "In",
+                            "incomeTaxRule": "",
+                            "paymentType": "Ko",
+                            "promEmployerTax": "1",
+                            "basisForTaxCalculation": "1",
+                            "underenhet": null
+                          },
+                          "specification": {
+                            "numberOfUnits": "",
+                            "taxResidenceCountry": "",
+                            "vestingCountry": "",
+                            "earnedSupportVessel": "",
+                            "earnedOnContinent": ""
+                          },
+                          "additionalInformation": []
+                        }
+                      ]
+                    },
+                    {
+                      "caledarMonth": "2020-05",
+                      "amountDetailCount": 1,
+                      "amountDetail": [
+                        {
+                          "amount": 4500,
+                          "category": {
+                            "name": "In",
+                            "incomeTaxRule": "",
+                            "paymentType": "Ko",
+                            "promEmployerTax": "1",
+                            "basisForTaxCalculation": "1",
+                            "underenhet": null
+                          },
+                          "specification": {
+                            "numberOfUnits": "",
+                            "taxResidenceCountry": "",
+                            "vestingCountry": "",
+                            "earnedSupportVessel": "",
+                            "earnedOnContinent": ""
+                          },
+                          "additionalInformation": []
+                        }
+                      ]
+                    },
+                    {
+                      "caledarMonth": "2020-06",
+                      "amountDetailCount": 1,
+                      "amountDetail": [
+                        {
+                          "amount": 7500,
+                          "category": {
+                            "name": "In",
+                            "incomeTaxRule": "",
+                            "paymentType": "Ko",
+                            "promEmployerTax": "1",
+                            "basisForTaxCalculation": "1",
+                            "underenhet": null
+                          },
+                          "specification": {
+                            "numberOfUnits": "",
+                            "taxResidenceCountry": "",
+                            "vestingCountry": "",
+                            "earnedSupportVessel": "",
+                            "earnedOnContinent": ""
+                          },
+                          "additionalInformation": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "description": "Time loenn",
+                  "salary": [
+                    {
+                      "caledarMonth": "2020-04",
+                      "amountDetailCount": 1,
+                      "amountDetail": [
+                        {
+                          "amount": 9000,
+                          "category": {
+                            "name": "In",
+                            "incomeTaxRule": "",
+                            "paymentType": "Ko",
+                            "promEmployerTax": "1",
+                            "basisForTaxCalculation": "1",
+                            "underenhet": null
+                          },
+                          "specification": {
+                            "numberOfUnits": "150",
+                            "taxResidenceCountry": "",
+                            "vestingCountry": "",
+                            "earnedSupportVessel": "",
+                            "earnedOnContinent": ""
+                          },
+                          "additionalInformation": []
+                        }
+                      ]
+                    },
+                    {
+                      "caledarMonth": "2020-05",
+                      "amountDetailCount": 1,
+                      "amountDetail": [
+                        {
+                          "amount": 80000,
+                          "category": {
+                            "name": "In",
+                            "incomeTaxRule": "",
+                            "paymentType": "Ko",
+                            "promEmployerTax": "1",
+                            "basisForTaxCalculation": "1",
+                            "underenhet": null
+                          },
+                          "specification": {
+                            "numberOfUnits": "150",
+                            "taxResidenceCountry": "",
+                            "vestingCountry": "",
+                            "earnedSupportVessel": "",
+                            "earnedOnContinent": ""
+                          },
+                          "additionalInformation": []
+                        }
+                      ]
+                    },
+                    {
+                      "caledarMonth": "2020-06",
+                      "amountDetailCount": 1,
+                      "amountDetail": [
+                        {
+                          "amount": 15000,
+                          "category": {
+                            "name": "In",
+                            "incomeTaxRule": "",
+                            "paymentType": "Ko",
+                            "promEmployerTax": "1",
+                            "basisForTaxCalculation": "1",
+                            "underenhet": null
+                          },
+                          "specification": {
+                            "numberOfUnits": "150",
+                            "taxResidenceCountry": "",
+                            "vestingCountry": "",
+                            "earnedSupportVessel": "",
+                            "earnedOnContinent": ""
+                          },
+                          "additionalInformation": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "businessIdentificationCd": "989898989",
+          "subCategory": [
+            {
+              "name": "Formost loop",
+              "detail": [
+                {
+                  "description": "",
+                  "salary": [
+                      {
+                      "caledarMonth": "2020-04",
+                      "amountDetailCount": 0,
+                      "amountDetail": []
+                    },
+                    {
+                      "caledarMonth": "2020-05",
+                      "amountDetailCount": 0,
+                      "amountDetail": []
+                    },
+                    {
+                      "caledarMonth": "2020-06",
+                      "amountDetailCount": 0,
+                      "amountDetail": []
+                    }
+                   ]
+                }
+              ]
+            },
+            {
+              "name": "my category",
+              "detail": [
+                {
+                  "description": "yet another",
+                  "salary": [
+                    {
+                      "caledarMonth": "2020-04",
+                      "amountDetailCount": 0,
+                      "amountDetail": []
+                    },
+                    {
+                      "caledarMonth": "2020-05",
+                      "amountDetailCount": 0,
+                      "amountDetail": []
+                    },
+                    {
+                      "caledarMonth": "2020-06",
+                      "amountDetailCount": 0,
+                      "amountDetail": []
+                    }
+                  ]
+                },
+                {
+                  "description": "Biling to check",
+                  "salary": [
+                   {
+                      "caledarMonth": "2020-04",
+                      "amountDetailCount": 0,
+                      "amountDetail": []
+                    },
+                    {
+                      "caledarMonth": "2020-05",
+                      "amountDetailCount": 0,
+                      "amountDetail": []
+                    },
+                    {
+                      "caledarMonth": "2020-06",
+                      "amountDetailCount": 0,
+                      "amountDetail": []
+                    }
+                  ]
+                },
+                {
+                  "description": "sal description",
+                  "salary": [
+                    {
+                      "caledarMonth": "2020-04",
+                      "amountDetailCount": 0,
+                      "amountDetail": []
+                    },
+                    {
+                      "caledarMonth": "2020-05",
+                      "amountDetailCount": 0,
+                      "amountDetail": []
+                    },
+                    {
+                      "caledarMonth": "2020-06",
+                      "amountDetailCount": 0,
+                      "amountDetail": []
+                    }
+                  ]
+                },
+                {
+                  "description": "Hent desc for look",
+                  "salary": [
+                    {
+                      "caledarMonth": "2020-04",
+                      "amountDetailCount": 0,
+                      "amountDetail": []
+                    },
+                    {
+                      "caledarMonth": "2020-05",
+                      "amountDetailCount": 0,
+                      "amountDetail": []
+                    },
+                    {
+                      "caledarMonth": "2020-06",
+                      "amountDetailCount": 0,
+                      "amountDetail": []
+                    }
+                  ]
+                },
+                {
+                  "description": "Timeloenn",
+                  "salary": [
+                    {
+                      "caledarMonth": "2020-04",
+                      "amountDetailCount": 0,
+                      "amountDetail": []
+                    },
+                    {
+                      "caledarMonth": "2020-05",
+                      "amountDetailCount": 0,
+                      "amountDetail": []
+                    },
+                    {
+                      "caledarMonth": "2020-06",
+                      "amountDetailCount": 0,
+                      "amountDetail": []
+                    }
+                   ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "mulitpleBusinessId": false
+    },
+    {
+      "employerName": "major hit again",
+      "cvrNumber": "656565656",
+      "businessIdentification": [
+        {
+          "businessIdentificationCd": "757575757",
+          "subCategory": [
+            {
+              "name": "mainly look at alignment",
+              "detail": [
+                {
+                  "description": "test again",
+                  "salary": [
+                    {
+                      "caledarMonth": "2019-01",
+                      "amountDetailCount": 2,
+                      "amountDetail": [
+                        {
+                          "amount": 200,
+                          "category": {
+                            "name": "In",
+                            "incomeTaxRule": "",
+                            "paymentType": "Ko",
+                            "promEmployerTax": "1",
+                            "basisForTaxCalculation": "1",
+                            "underenhet": null
+                          },
+                          "specification": {
+                            "numberOfUnits": "",
+                            "taxResidenceCountry": "",
+                            "vestingCountry": "",
+                            "earnedSupportVessel": "",
+                            "earnedOnContinent": ""
+                          },
+                          "additionalInformation": []
+                        },
+                        {
+                          "amount": 20000,
+                          "category": {
+                            "name": "In",
+                            "incomeTaxRule": "",
+                            "paymentType": "Ko",
+                            "promEmployerTax": "1",
+                            "basisForTaxCalculation": "1",
+                            "underenhet": null
+                          },
+                          "specification": {
+                            "numberOfUnits": "",
+                            "taxResidenceCountry": "",
+                            "vestingCountry": "",
+                            "earnedSupportVessel": "",
+                            "earnedOnContinent": ""
+                          },
+                          "additionalInformation": []
+                        }
+                      ]
+                    },
+					{
+                      "caledarMonth": "2019-06",
+                      "amountDetailCount": 1,
+                      "amountDetail": [
+                        {
+                          "amount": 123200,
+                          "category": {
+                            "name": "In",
+                            "incomeTaxRule": "",
+                            "paymentType": "Ko",
+                            "promEmployerTax": "1",
+                            "basisForTaxCalculation": "1",
+                            "underenhet": null
+                          },
+                          "specification": {
+                            "numberOfUnits": "",
+                            "taxResidenceCountry": "",
+                            "vestingCountry": "",
+                            "earnedSupportVessel": "",
+                            "earnedOnContinent": ""
+                          },
+                          "additionalInformation": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "description": "further testing conducted",
+                  "salary": [
+                    {
+                      "caledarMonth": "2019-01",
+                      "amountDetailCount": 2,
+                      "amountDetail": [
+                        {
+                          "amount": 75000,
+                          "category": {
+                            "name": "In",
+                            "incomeTaxRule": "",
+                            "paymentType": "Ko",
+                            "promEmployerTax": "1",
+                            "basisForTaxCalculation": "1",
+                            "underenhet": null
+                          },
+                          "specification": {
+                            "numberOfUnits": "",
+                            "taxResidenceCountry": "",
+                            "vestingCountry": "",
+                            "earnedSupportVessel": "",
+                            "earnedOnContinent": ""
+                          },
+                          "additionalInformation": []
+                        },
+                        {
+                          "amount": 15000,
+                          "category": {
+                            "name": "In",
+                            "incomeTaxRule": "",
+                            "paymentType": "Ko",
+                            "promEmployerTax": "1",
+                            "basisForTaxCalculation": "1",
+                            "underenhet": null
+                          },
+                          "specification": {
+                            "numberOfUnits": "",
+                            "taxResidenceCountry": "",
+                            "vestingCountry": "",
+                            "earnedSupportVessel": "",
+                            "earnedOnContinent": ""
+                          },
+                          "additionalInformation": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "description": "completely used for testing",
+                  "salary": [
+                    {
+                      "caledarMonth": "2019-01",
+                      "amountDetailCount": 2,
+                      "amountDetail": [
+                        {
+                          "amount": 8800,
+                          "category": {
+                            "name": "In",
+                            "incomeTaxRule": "",
+                            "paymentType": "N",
+                            "promEmployerTax": "1",
+                            "basisForTaxCalculation": "1",
+                            "underenhet": null
+                          },
+                          "specification": {
+                            "numberOfUnits": "",
+                            "taxResidenceCountry": "",
+                            "vestingCountry": "",
+                            "earnedSupportVessel": "",
+                            "earnedOnContinent": ""
+                          },
+                          "additionalInformation": []
+                        },
+                        {
+                          "amount": 500,
+                          "category": {
+                            "name": "In",
+                            "incomeTaxRule": "",
+                            "paymentType": "N",
+                            "promEmployerTax": "1",
+                            "basisForTaxCalculation": "1",
+                            "underenhet": null
+                          },
+                          "specification": {
+                            "numberOfUnits": "",
+                            "taxResidenceCountry": "",
+                            "vestingCountry": "",
+                            "earnedSupportVessel": "",
+                            "earnedOnContinent": ""
+                          },
+                          "additionalInformation": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "description": "final description",
+                  "salary": [
+                    {
+                      "caledarMonth": "2019-01",
+                      "amountDetailCount": 2,
+                      "amountDetail": [
+                        {
+                          "amount": 6000,
+                          "category": {
+                            "name": "In",
+                            "incomeTaxRule": "",
+                            "paymentType": "Ko",
+                            "promEmployerTax": "1",
+                            "basisForTaxCalculation": "1",
+                            "underenhet": null
+                          },
+                          "specification": {
+                            "numberOfUnits": "",
+                            "taxResidenceCountry": "",
+                            "vestingCountry": "",
+                            "earnedSupportVessel": "",
+                            "earnedOnContinent": ""
+                          },
+                          "additionalInformation": []
+                        },
+                        {
+                          "amount": 4000,
+                          "category": {
+                            "name": "In",
+                            "incomeTaxRule": "",
+                            "paymentType": "Ko",
+                            "promEmployerTax": "1",
+                            "basisForTaxCalculation": "1",
+                            "underenhet": null
+                          },
+                          "specification": {
+                            "numberOfUnits": "",
+                            "taxResidenceCountry": "",
+                            "vestingCountry": "",
+                            "earnedSupportVessel": "",
+                            "earnedOnContinent": ""
+                          },
+                          "additionalInformation": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "mulitpleBusinessId": false
+    }
+  ]
+}
