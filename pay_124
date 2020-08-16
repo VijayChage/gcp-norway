@@ -1,0 +1,8 @@
+{
+  "returnMessage": "successful consent but something failed with fetching the data. Please ask the customer to give a new consent",
+  "externalCustomerNumber": "12345555555",
+  "customerConsentKey": "2020-03-04-08.56.38.328999",
+  "translationText": "displayed as part testing",
+  "returnCode": 124,
+  "employer": []
+}
