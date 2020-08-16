@@ -1,0 +1,9 @@
+{
+  "returnMessage": "Consent not found for the customer",
+  "returnCode": 123,
+  "externalCustomerNumber": "5657874556",
+  "customerConsentKey": "2019-11-15-15.49.27.159271",
+  "customerDecision": "",
+  "shelteredFlag": "F",
+  "employer": []
+  }
