@@ -1,0 +1,14 @@
+{
+  "category": [],
+  "returnMessage": "Consent found but Tax data not found for customer",
+  "externalCustomerNumber": "",
+  "customerConsentKey": "",
+  "taxYear": "",
+  "decisionShText": "",
+  "settlementDate": "",
+  "estimatedFlag": "",
+  "estimatedSvFlag": "",
+  "decisionSvText": "",
+  "shelteredFlag": "",
+  "returnCode": "125"
+}
