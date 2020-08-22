@@ -1,0 +1,14 @@
+{
+  "category": [],
+  "returnMessage": "'No Tax data found for the customer",
+  "externalCustomerNumber": "",
+  "customerConsentKey": "",
+  "taxYear": "2019",
+  "decisionShText": "",
+  "settlementDate": "",
+  "estimatedFlag": "",
+  "estimatedSvFlag": "",
+  "decisionSvText": "",
+  "shelteredFlag": "",
+  "returnCode": "128"
+}
