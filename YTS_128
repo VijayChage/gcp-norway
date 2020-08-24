@@ -1,6 +1,6 @@
 {
   "category": [],
-  "returnMessage": "'No Tax data found for the customer",
+  "returnMessage": "No Tax data found for the customer",
   "externalCustomerNumber": "",
   "customerConsentKey": "",
   "taxYear": "2019",
