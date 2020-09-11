@@ -3,7 +3,7 @@
   "returnCode": 0,
   "externalCustomerNumber": "3456789",
   "customerConsentKey": "2019-11-20-20.54.24.131503",
-  "customerDecision": "",
+  "customerDecision": "Customer Decision view",
   "shelteredFlag": "F",
   "localTruthBeforeTax": 0,
   "employer": [
